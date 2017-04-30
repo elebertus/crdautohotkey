@@ -1,0 +1,1 @@
+`crd_map.ahk` is a more configurable version of `CRD.ahk`. You can insert the values you want into the `EQHotKeys` map instead of copy and pasting a bunch of blocks for each key you want.
