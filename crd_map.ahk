@@ -12,7 +12,7 @@ SetKeyDelay, 20, 20
 ;
 ; You can change this to anything you like by replacing
 ; the key/value pairs in the EQHotKeys associative array.
-EQHotKeys := {"^1": "1", "^2": "2", "^3": "3", "^4": "4", "^5": "5", "^6": "6", "^7": "7", "^8": "8", "^9": "9" "^NumPad1": "!1", "^NumPad2": "!2", "^NumPad3": "!3", "^Numpad4": "!4", "^NumPad5": "!5", "^NumPad6": "!6", "^NumPad7": "!7", "^NumPad8": "!8"}
+EQHotKeys := {"^1": "1", "^2": "2", "^3": "3", "^4": "4", "^5": "5", "^6": "6", "^7": "7", "^8": "8", "^9": "9", "^NumPad1": "!1", "^NumPad2": "!2", "^NumPad3": "!3", "^Numpad4": "!4", "^NumPad5": "!5", "^NumPad6": "!6", "^NumPad7": "!7", "^NumPad8": "!8"}
 
 ; I can't really explain this logic very well.
 ; My understanding is that you can't push a
